@@ -1,3 +1,7 @@
 <?php 
- echo 11; 
+ echo 'Hello GiTNET' ; 
+ echo 'Hello GiTNET' ; 
+ echo 'Hello GiTNET' ; 
+ echo 'Hello GiTNET' ; 
+ echo 'Hello GiTNET' ; 
 ?>
